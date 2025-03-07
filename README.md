@@ -4,6 +4,8 @@ Cosmere themed Texture pack
 Be sure to make a backup of your game files and saves before editing game files.
 *Editing Game files *May* disable achievements for steam. Although I'm not sure
 
+**DISCLAIMER** None of the art in this pack is my own. The Cosmere and the characters within are the property of Dragonsteel Entertainment.
+
 To install:
 1. Download the Textures.zip
 2. Extract the Textures.zip
